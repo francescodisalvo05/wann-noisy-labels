@@ -111,10 +111,12 @@ python run_linear_inference.py --experiment_name=<NAME OF THE EXPERIMENT (used f
 
 If you find this work useful, please consider citing us:
 ```
-@article{disalvo2024embedding,
-  title={An Embedding is Worth a Thousand Noisy Labels},
-  author={Di Salvo, Francesco and Doerrich, Sebastian and Rieger, Ines and Ledig, Christian},
-  journal={arXiv preprint arXiv:2408.14358},
-  year={2024}
+@article{disalvo2025an,
+title={An Embedding is Worth a Thousand Noisy Labels},
+author={Francesco Di Salvo and Sebastian Doerrich and Ines Rieger and Christian Ledig},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2025},
+url={https://openreview.net/forum?id=X3gSvQjShh},
 }
 ```
